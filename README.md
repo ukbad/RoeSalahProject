@@ -16,7 +16,7 @@ INSTALLATION REQUIREMENTS
 - Visual Studio Code
 
 STEPS
-- Clone repository: git clone https://github.com/your-username/roeSalah-app.git
+- Clone repository: https://github.com/ukbad/RoeSalahProject.git
 cd roeSalah-app
 - Instal Dependencies: npm install
 -Start the app: npx expo start
