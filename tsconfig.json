@@ -9,4 +9,4 @@
     "moduleResolution": "node"
   },
   "extends": "expo/tsconfig.base"
-}
+{
