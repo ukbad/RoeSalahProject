@@ -1,4 +1,5 @@
 ROESALAH - MOBILE PRAYER APP
+
 Overview
 RoeSalah is a mobile application developed to supoort Muslim students and staff at the University of Roehampton by providing reliable access to daily prayer times, Qibla direction, and islamic resources. the app is built with React Native (Expo) and uses SQLite for offline prayer time storage. it is designed to be lightweight, intuitive and accessible across both Android and iOS platforms.
 
